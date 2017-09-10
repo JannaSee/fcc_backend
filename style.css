@@ -1,0 +1,15 @@
+body {
+    background-color: cream;
+}
+h1,h3 {
+    color: blue;
+}
+
+ul{
+	margin-left: -24px;
+}
+
+code {
+    color: red;
+	background-color: F7EDB2;
+}
